@@ -1,6 +1,6 @@
-package com.github.aelmod.dynamic;
+package com.github.aelmod.dynamic.easy;
 
-public class Fibonachi {
+public class Fibonacci {
 
     public static void main(String[] args) {
         System.out.println(calc(10));

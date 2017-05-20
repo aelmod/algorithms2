@@ -1,4 +1,4 @@
-package com.github.aelmod.dynamic;
+package com.github.aelmod.dynamic.easy;
 
 public class Fib {
 
